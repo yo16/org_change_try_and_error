@@ -1,0 +1,2 @@
+# org_change_try_and_error
+組織変更を試行錯誤するツール
